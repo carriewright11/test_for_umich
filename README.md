@@ -2,7 +2,7 @@
 Overview
 This repository contains an analysis of RNA-seq data related to Acute Myeloid Leukemia (AML). The analysis utilizes a sample dataset from Shih et al., 2017 and is designed to create clustered heatmaps to visualize gene expression patterns in AML.
 
-Purpose of the Analysis
+**Purpose of the Analysis**
 The primary goal of this analysis is to explore how mutations in IDH2 and TET2 affect gene expression in AML. We use RNA-sequencing results from 19 acute myeloid leukemia model mice, processed and normalized through refine.bio.
 
 Key Features:
